@@ -1,0 +1,7 @@
+h1. Example of a Plugin for Elasticsearch with a REST endpoint
+
+h2. Introduction
+
+p. This plugin contains illustrates how to add a REST endpoint to an elasticsearch plugin.
+
+
